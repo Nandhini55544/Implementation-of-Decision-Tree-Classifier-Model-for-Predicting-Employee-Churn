@@ -49,7 +49,6 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
 ## Data haed:
 ![image](https://github.com/user-attachments/assets/f6742e6e-4349-4c7a-ac4a-543652fff0d7)
 ## Dataset info:
